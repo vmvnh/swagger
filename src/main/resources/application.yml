@@ -1,0 +1,5 @@
+#springdoc:
+#  swagger-ui:
+#    urls:
+#      - name: user service
+#        url: /user-service/api-docs
